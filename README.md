@@ -1,2 +1,2 @@
 # php_probability_tools
-probability tools
+php probability tools
