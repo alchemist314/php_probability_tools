@@ -39,7 +39,7 @@ include "class_mean.php";
     $oMean->fGetResult($aArray);
     print "mean: ".$oMean->sMean. ", sigma: ".$oMean->sSigma;
 
-    //mean: 1528.25, sigma: 67.817309737264
+    // mean: 60.125 sigma: 5.1584275704908
 ?>
 ```
 2. Calculate the Laplace probability:
