@@ -1,5 +1,4 @@
 # php_probability_tools
-php probability tools
 
 How it works:
 
