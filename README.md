@@ -34,12 +34,12 @@ Use tools:
 use \CalcMean\cCalcMean;
 
 include "class_mean.php";
-    $oMean = new cCalcMean();
-    $aArray=[1514,1498,1458,1454,1528,1432,1536,1476,1611,1571,1599,1662];
-    $oMean->fGetResult($aArray);
-    print "mean: ".$oMean->sMean. ", sigma: ".$oMean->sSigma;
+$oMean = new cCalcMean();
+$aArray=[57, 56, 57, 59, 62, 58, 59, 73];
+$oMean->fGetResult($aArray);
+print "mean: ".$oMean->sMean. ", sigma: ".$oMean->sSigma;
 
-    // mean: 60.125 sigma: 5.1584275704908
+// mean: 60.125 sigma: 5.1584275704908
 ?>
 ```
 2. Calculate the Laplace probability:
