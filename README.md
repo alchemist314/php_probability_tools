@@ -2,7 +2,7 @@
 
 How it works:
 
-You have a noraml distribution data:
+You have a normal distribution data:
 57, 56, 57, 59, 62, 58, 59, 73...
 <img src="https://github.com/alchemist314/images/blob/e15457d97d585379d84f178b84f0469db8c8bdb6/probability_tools/Laplace/normal_distribution.png?raw=true">
 
