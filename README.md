@@ -44,7 +44,7 @@ print "mean: ".$oMean->sMean. ", sigma: ".$oMean->sSigma;
 // mean: 60.125 sigma: 5.1584275704908
 ?>
 ```
-2. Calculate the Laplace probability (current application supports only integer values):
+2. Calculate the Laplace probability (current application supports only integer given probability value):
 
 ```
 <?php
@@ -54,7 +54,7 @@ use \LaplaceProbability\cLaplaceProbability;
 include "class_laplace.php";
 
 $oLaplace= new cLaplaceProbability();
-// 83 - a giving value, 60 - Mu (a Mean value), 5 - a Sigma value (standard deviation)
+// 83 - a given value, 60 - Mu (a Mean value), 5 - a Sigma value (standard deviation)
 print number_format($oLaplace->fPDF(83, 60, 5),10);
 
 // 0.0000100000
