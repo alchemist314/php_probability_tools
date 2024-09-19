@@ -1,6 +1,6 @@
 # php_Laplace_probability_function
 calculate Laplace probability function
-<br>(current application supports only integer values)
+<br>(current application supports only integer given probability value)
 
 Example: 
 
