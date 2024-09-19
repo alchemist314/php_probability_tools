@@ -25,7 +25,7 @@ Put a values to the function:
 Calculate the probability:
 <br><img src="https://github.com/alchemist314/images/blob/e15457d97d585379d84f178b84f0469db8c8bdb6/probability_tools/Laplace/gauss_formula_rashet_veroyatnosti_solution1.png?raw=true">
 <br>(solving the equation is to find a closest value from a <a href="https://kvm.gubkin.ru/pub/fan/laplasetable2.pdf" target="_blank">Gaussian-Laplace table</a> or you can use probability tools described below)
-<br><img src="https://github.com/alchemist314/images/blob/main/probability_tools/Laplace/Laplace_distribution_formula.png?raw=true">
+<br><img src="https://github.com/alchemist314/images/blob/main/probability_tools/Laplace/Laplace_distribution_formula_.png?raw=true">
 
 Use tools:
 1. Calculate a Mean value and a Sigma value (standard deviation):
