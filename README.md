@@ -44,7 +44,7 @@ print "mean: ".$oMean->sMean. ", sigma: ".$oMean->sSigma;
 // mean: 60.125 sigma: 5.1584275704908
 ?>
 ```
-2. Calculate the Laplace probability:
+2. Calculate the Laplace probability (current application supports only integer values):
 
 ```
 <?php
